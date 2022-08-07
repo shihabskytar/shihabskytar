@@ -11,16 +11,16 @@
 
 ![](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on Javascript 
 - 🌱 I’m currently learning C, C#, JAVA 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shihabskytar)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+<br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shihabskytar)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shihabskytar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/shihabskytar)  
 
@@ -36,12 +36,11 @@
 <a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Programming%20Langauge%20Icons%20Set/php.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/rahulbanerjee2699'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/rahulbanerjee99'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://rahul1999.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://portfolio-2022-psi-virid.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/rahulbanerjee26'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<h2> Connect with me<img src='https://raw.githubusercontent.com/shihabskytar/shihabskytar/1842dd9324a250362fb9017805adc061ebc6c505/Social%20Icons%20Set/930579_7b7a80be38f74af2813492be6e993734_mv2.gif' width="50px" height=50px> </h2>
+<a href = 'https://www.facebook.com/shihabskytar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Social%20Icons%20Set/facebook.svg"/></a> 
+<a href = 'https://twitter.com/shihabskytar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/1842dd9324a250362fb9017805adc061ebc6c505/Social%20Icons%20Set/twitter.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/shihabskytar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/1842dd9324a250362fb9017805adc061ebc6c505/Social%20Icons%20Set/linkedin.svg"/></a> 
+<a href = 'https://www.youtube.com/c/ShihabSkytar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/1842dd9324a250362fb9017805adc061ebc6c505/Social%20Icons%20Set/YouTube.svg"/></a> 
 
 <br>
 
@@ -50,4 +49,6 @@
 
 ![Metrics](https://metrics.lecoq.io/shihabskytar?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-# Thanks for visiting my profile! .
+# Thanks for visiting my profile! <img src = "https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Social%20Icons%20Set/wave%20hand.gif" width = 50px height=50px>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/shihabskytar)
