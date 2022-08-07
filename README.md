@@ -1,4 +1,9 @@
-# Thanks for visiting my profile! .
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
+<p> My name is Omar Faruk Shihab and i'm a javascript developer, from <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/BD_Flag.png" width="17" /> <b>Paraná, Brasil</b>. </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=84F17B&background=090D13&center=true&vCenter=true&lines=Entrepreneur;Investor;Researcher;Cyber+Security+Specialist;Digital+Marketer)](https://git.io/typing-svg)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shihabskytar&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabskytar)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -20,3 +25,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shihabskytar)  
 
 ![Profile views](https://gpvc.arturio.dev/shihabskytar)  
+
+# Thanks for visiting my profile! .
