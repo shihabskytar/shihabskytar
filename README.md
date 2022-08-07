@@ -13,7 +13,7 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shihabskytar)][(https://github.com/ryo-ma&column=3&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shihabskytar)](https://github.com/ryo-ma/github-profile-trophy, rank=S)
 
 
 
