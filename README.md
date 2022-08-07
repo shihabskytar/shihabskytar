@@ -1,7 +1,6 @@
 # Thanks for visiting my profile! .
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabskytar)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shihabskytar&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabskytar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shihabskytar&show_icons=true)  
 
 ![](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 
