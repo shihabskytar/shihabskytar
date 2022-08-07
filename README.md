@@ -25,7 +25,7 @@
 ![Profile views](https://gpvc.arturio.dev/shihabskytar)  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://github.com/shihabskytar/shihabskytar/blob/cc53715f248037258887a9362c62c428f1b926ea/Social%20Icons%20Set/15774175881551942290.svg'> </a>
 <a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
