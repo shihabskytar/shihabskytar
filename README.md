@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=84F17B&background=090D1300&center=true&vCenter=true&lines=Entrepreneur;Investor;Researcher;Cyber+Security+Specialist;Digital+Marketer)](https://git.io/typing-svg)
 
-<p> My name is Omar Faruk Shihab and i'm a javascript developer, from <img src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Social%20Icons%20Set/bd-flag.png" width="17" /> <b>Dhaka, Bangladesh</b>. </p>
+<p> My name is Omar Faruk Shihab and i'm a web developer, from <img src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Social%20Icons%20Set/bd-flag.png" width="17" /> <b>Dhaka, Bangladesh</b>. </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shihabskytar&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabskytar)](https://github.com/anuraghazra/github-readme-stats)
 
