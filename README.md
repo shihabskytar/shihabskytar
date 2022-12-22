@@ -48,4 +48,4 @@
 
 # Thanks for visiting my profile! <img src = "https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Social%20Icons%20Set/wave%20hand.gif" width = 50px height=50px>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/shihabskytar)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Will+See+You+Again!...)](https://github.com/shihabskytar)
