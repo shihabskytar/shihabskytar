@@ -1,52 +1,160 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Social%20Icons%20Set/wave%20hand.gif" width="50px"/> Hey there! I'm Omar Faruk Shihab. 👨‍💻</h1>
+<div align="center">
 
-<img height="50%" width="50%" align="right" alt="Github" src="https://github.com/shihabskytar/shihabskytar/blob/701c88dee7c32dd63063e038ff36712316a2c7a8/Others/Hand-coding.svg" /> 
+<img src="./assets/header.svg" width="100%" alt="SKYTAR // WOLF KING // CYBER INTELLIGENCE"/>
 
-- 🔭 I’m currently working on Javascript 
-- 🌱 I’m currently learning C, C#, JAVA 
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h3 align="center">An Impassioned Deep Learning & Machine Learning Practitioner and Learner from <img src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Social%20Icons%20Set/bd-flag.png" width="17" /> <b>Dhaka, Bangladesh</b>.</h3>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=84F17B&background=090D1300&center=true&vCenter=true&lines=Entrepreneur;Investor;Researcher;Cyber+Security+Specialist;Digital+Marketer)](https://git.io/typing-svg)
+```text
+[ 0.000 ] kernel loading...
+[ 0.412 ] mounting /dev/shadow ........ OK
+[ 0.903 ] bypassing firewall ........... OK
+[ 1.377 ] neural core handshake ........ OK
+[ 1.911 ] WARNING: unknown presence detected
+[ 2.250 ] identity verified: SKYTAR // WOLF KING
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabskytar)](https://github.com/anuraghazra/github-readme-stats)
+**Welcome, operator. Type help or tap a command below.**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shihabskytar&show_icons=true)  
+> Click any `root@skytar:~#` line to run it.
 
-![](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+<details open>
+<summary><code>root@skytar:~# help</code></summary>
 
-<br>
+```text
+AVAILABLE COMMANDS
+  whoami    identity file
+  skills    operator skill matrix
+  ops       active operations
+  links     establish connection
+  wolf      look into its eyes
+  decrypt   decode the transmission
+  clear     wipe the screen
+  (try breaking things)
+```
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shihabskytar)  
+</details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shihabskytar)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+<summary><code>root@skytar:~# whoami</code></summary>
 
-![Profile views](https://gpvc.arturio.dev/shihabskytar)  
+```text
+[IDENTITY]
+ALIAS       = SKYTAR
+CODENAME    = WOLF KING
+NAME        = Omar Faruk Shihab
+ORIGIN      = Dhaka, Bangladesh
+CLASS       = Cybersecurity & AI Research
+RULE        = THINK DEEP. BUILD HARD. STAY PRECISE.
+```
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Programming%20Langauge%20Icons%20Set/HTML.svg'> </a>
-<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Programming%20Langauge%20Icons%20Set/CSS.svg'> </a>
-<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Programming%20Langauge%20Icons%20Set/javascript.svg'> </a>
-<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Programming%20Langauge%20Icons%20Set/python.svg'> </a>
-<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Programming%20Langauge%20Icons%20Set/react.svg'> </a>
-<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Programming%20Langauge%20Icons%20Set/c-programming.svg'> </a>
-<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Programming%20Langauge%20Icons%20Set/cpp.svg'> </a>
-<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Programming%20Langauge%20Icons%20Set/c-sharp.svg'> </a>
-<a href= https://github.com/shihabskytar?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Programming%20Langauge%20Icons%20Set/php.svg'> </a>
+> “Silent in the dark. Relentless in the pursuit of knowledge.”
 
+</details>
 
-<br>
+<details>
+<summary><code>root@skytar:~# skills</code></summary>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height=32px> </h2>
+```text
+OPERATOR SKILL MATRIX
+JavaScript       ████████████████████
+Python           ████████████████████
+Web Engineering  █████████████████░░░
+Machine Learning ████████████████░░░░
+Cybersecurity    ███████████████░░░░░
+C / C++          ███████████░░░░░░░░░
+C# / Java        ██████████░░░░░░░░░░
+```
 
-![Metrics](https://metrics.lecoq.io/shihabskytar?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+</details>
 
+<details>
+<summary><code>root@skytar:~# ops</code></summary>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Will+See+You+Again!...)](https://github.com/shihabskytar)
+```text
+ACTIVE OPERATIONS
+[001] CYBERSECURITY  vuln research, defensive security, malware analysis, forensics
+[002] REVERSE ENG.   binary structure, assembly, control-flow reconstruction
+[003] AI & NEURAL    ML, deep learning, automation, local AI integration
+[004] SOFTWARE ENG.  full-stack, desktop apps, developer tooling
+```
 
-# Stay Connected<img src='https://raw.githubusercontent.com/shihabskytar/shihabskytar/1842dd9324a250362fb9017805adc061ebc6c505/Social%20Icons%20Set/930579_7b7a80be38f74af2813492be6e993734_mv2.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.facebook.com/shihabskytar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/main/Social%20Icons%20Set/facebook.svg"/></a> 
-<a href = 'https://twitter.com/shihabskytar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/1842dd9324a250362fb9017805adc061ebc6c505/Social%20Icons%20Set/twitter.svg"/></a> 
-<a href = 'https://www.linkedin.com/in/shihabskytar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/1842dd9324a250362fb9017805adc061ebc6c505/Social%20Icons%20Set/linkedin.svg"/></a> 
-<a href = 'https://www.youtube.com/c/ShihabSkytar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/shihabskytar/shihabskytar/1842dd9324a250362fb9017805adc061ebc6c505/Social%20Icons%20Set/YouTube.svg"/></a> 
+</details>
 
+<details>
+<summary><code>root@skytar:~# links</code></summary>
+
+**ESTABLISH CONNECTION**
+
+[GITHUB](https://github.com/shihabskytar) &nbsp;·&nbsp;
+[FACEBOOK](https://www.facebook.com/shihabskytar) &nbsp;·&nbsp;
+[X](https://x.com/shihabskytar) &nbsp;·&nbsp;
+[LINKEDIN](https://www.linkedin.com/in/shihabskytar) &nbsp;·&nbsp;
+[YOUTUBE](https://www.youtube.com/c/ShihabSkytar) &nbsp;·&nbsp;
+[WEBSITE](https://www.shihabskytar.com)
+
+</details>
+
+<details>
+<summary><code>root@skytar:~# wolf</code></summary>
+
+```text
+      ▄▀▄       ▄▀▄
+     ▐▓▓▓▀▄▄▄▄▄▀▓▓▓▌
+      ▀█  ◉   ◉  █▀
+       █   ▼▼   █
+        ▀▄▄▄▄▄▀
+```
+
+**IT HAS BEEN WATCHING YOU SINCE YOU ARRIVED.**
+
+<img src="./assets/wolf-eyes.svg" width="100%" alt="Glowing red wolf eyes"/>
+
+</details>
+
+<details>
+<summary><code>root@skytar:~# decrypt</code></summary>
+
+```text
+Z#3K&@ 7HE C0D? 4LW@YS L?AV$S A TR/CE.
+THE CODE ALWAYS LEAVES A TRA#$%.
+THE CODE ALWAYS LEAVES A TRACE.
+```
+
+</details>
+
+<details>
+<summary><code>root@skytar:~# sudo rm -rf /</code></summary>
+
+```text
+ACCESS DENIED.
+PERMISSION REVOKED BY WOLF KING. THIS ATTEMPT HAS BEEN LOGGED.
+```
+
+</details>
+
+<details>
+<summary><code>root@skytar:~# exit</code></summary>
+
+```text
+THERE IS NO EXIT.
+SESSION CLOSED? NO. THE SESSION NEVER CLOSES.
+```
+
+</details>
+
+<details>
+<summary><code>root@skytar:~# clear</code></summary>
+
+```text
+(screen wiped. nothing is ever really deleted.)
+```
+
+</details>
+
+<div align="center">
+
+[![Whispers](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3200&pause=1500&color=FF3030&center=true&vCenter=true&width=700&height=40&lines=IT+KNOWS+YOU+ARE+HERE;DO+NOT+CLOSE+THE+TERMINAL;SOMETHING+IS+WATCHING;THE+CODE+LEAVES+A+TRACE;YOU+ARE+NOT+ALONE+IN+THE+SHELL;TRACE%3A+1+CONNECTION;THE+WOLF+HEARD+THAT)](https://github.com/shihabskytar)
+
+</div>
