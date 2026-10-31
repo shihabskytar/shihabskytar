@@ -1,62 +1,33 @@
-<!--
-  SKYTAR // WOLF KING — GitHub Profile README
-  IMPORTANT, READ THIS FIRST:
-  GitHub strips JavaScript from .md files, so a real typed terminal,
-  matrix rain, mouse-following eyes, and panic/shake effects CANNOT run
-  inside README.md itself — no matter who writes it. That is GitHub security,
-  not a missing feature.
-  This README therefore does everything GitHub DOES allow, interactively:
-  - animated typing SVG, animated banner, clickable badges
-  - click-to-expand <details> terminal commands (whoami, skills, ops, links, wolf, decrypt)
-  - live GitHub stats / top languages / streak cards
-  - click-through to the FULL terminal, which lives in index.html in this same
-    repo and works exactly like your example once GitHub Pages is on.
-  HOW TO PUBLISH (your one-time sign-in, no Muse connection):
-  1. Create a NEW repo on github.com named exactly: shihabskytar
-     (same as your username — that is what makes it a profile README)
-  2. Do NOT add a README / licence from GitHub — upload this folder instead.
-  3. Push README.md + index.html to main.
-  4. Repo Settings → Pages → Deploy from a branch → main / (root) → Save.
-     Your live terminal will then be at: https://shihabskytar.github.io/
-  5. On your profile, click "Enter the Terminal" below to test it.
--->
-
 <div align="center">
 
-# SKYTAR
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:101820,70:8b0000,100:00ff9c&height=280&section=header&text=SKYTAR&fontSize=100&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=WOLF%20KING%20%2F%2F%20ROOT%20CAT%20%2F%2F%20CYBER%20INTELLIGENCE&descSize=17&descColor=ff3030&descAlignY=63" width="100%"/>
 
-### 🐺 WOLF KING // CYBER INTELLIGENCE
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=850&height=65&lines=%3E+Welcome%2C+operator.;%3E+IDENTITY%3A+SKYTAR+%2F%2F+WOLF+KING+%2F%2F+ROOT+CAT;%3E+REVERSE+ENGINEERING+%7C+CYBER+INTELLIGENCE;%3E+BREAK+DOWN+THE+BINARY.+REVEAL+THE+CORE.;%3E+NO+NOISE.+NO+GUESSWORK.+JUST+PRECISION." alt="Typing animation" />
 
-<!-- Animated typing — this DOES animate on GitHub, because it is an SVG image, not JavaScript -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Welcome%2C+operator.;Type+help+or+tap+a+command+below.;Silent+in+the+dark.+Relentless+in+the+pursuit+of+knowledge.;Decode+the+Unknown.+Understand+the+Core." alt="Typing animation: Welcome, operator" />
+[![GitHub](https://img.shields.io/badge/GITHUB-SKYTAR-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=050505)](https://github.com/shihabskytar)
+![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00ff9c?style=for-the-badge&labelColor=050505)
+![Focus](https://img.shields.io/badge/FOCUS-CYBER_RESEARCH-00ff9c?style=for-the-badge&labelColor=050505)
+
+<img src="https://komarev.com/ghpvc/?username=shihabskytar&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" alt="Profile views"/>
 
 <br/>
 
-<!-- THE REAL TERMINAL — this is where the full animation + interaction lives -->
 <a href="https://shihabskytar.github.io/">
   <img src="https://img.shields.io/badge/▶_ENTER_THE_TERMINAL-00FF9C?style=for-the-badge&logo=gnometerminal&logoColor=black&labelColor=050505" alt="Enter the Terminal" />
 </a>
 <a href="https://www.shihabskytar.com">
   <img src="https://img.shields.io/badge/WEBSITE-shihabskytar.com-FF3030?style=for-the-badge&labelColor=050505" alt="Website" />
 </a>
-<a href="https://github.com/shihabskytar?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-View_all-00FF9C?style=for-the-badge&labelColor=050505" alt="Repositories" />
-</a>
 
-> **In the live terminal you can actually type.**
-> Matrix rain, boot log, typing effect, command chips, mouse-following eyes,
-> whispers, scramble-decrypt, and the wolf panic effect all work there —
-> because `index.html` runs in a browser, not in GitHub markdown.
-> On this profile page, use the clickable commands below instead — they
-> expand in place, exactly like running them.
+> **GitHub strips JavaScript from .md files, so the real terminal lives on the site above.**
+> On this page, use the clickable commands below — they expand in place.
+> On [shihabskytar.github.io](https://shihabskytar.github.io/) you can actually type, with matrix rain, mouse-following Root Cat eyes, whispers, scramble-decrypt, and the wolf panic effect.
 
 </div>
 
 ---
 
 ## 🖥️ Click a command — it runs in place
-
-> Click any command below. It expands like a terminal output. No page reload, no JavaScript needed.
 
 <details open>
 <summary><b><code>root@skytar:~# help</code></b> — available commands</summary>
@@ -67,11 +38,10 @@ skills    operator skill matrix
 ops       active operations
 links     establish connection
 wolf      look into its eyes
+cat       root cat
 decrypt   decode the transmission
 clear     wipe the screen  (close all the sections below to reset)
 ```
-
-Tap a command chip, or click the sections below:
 
 </details>
 
@@ -82,12 +52,13 @@ Tap a command chip, or click the sections below:
 [IDENTITY]
 ALIAS       = SKYTAR
 CODENAME    = WOLF KING
+MASCOT      = ROOT CAT
 NAME        = Omar Faruk Shihab
 ORIGIN      = Dhaka, Bangladesh
 CLASS       = Cybersecurity & AI Research
 RULE        = THINK DEEP. BUILD HARD. STAY PRECISE.
 
-“Silent in the dark. Relentless in the pursuit of knowledge.”
+"Silent in the dark. Relentless in the pursuit of knowledge."
 ```
 
 </details>
@@ -97,14 +68,18 @@ RULE        = THINK DEEP. BUILD HARD. STAY PRECISE.
 
 ```text
 OPERATOR SKILL MATRIX
-JavaScript       ████████████████████
-Python           ████████████████████
-Web Engineering  █████████████████░░░
-Machine Learning ████████████████░░░░
-Cybersecurity    ███████████████░░░░░
-C / C++          ███████████░░░░░░░░░
-C# / Java        ██████████░░░░░░░░░░
+JavaScript       ████████████████████  BUILDING
+Python           ████████████████████  DEVELOPMENT
+Web Engineering  █████████████████░░░  DEVELOPMENT
+Machine Learning ████████████████░░░░  RESEARCH
+Cybersecurity    ███████████████░░░░░  RESEARCH
+C / C++          ███████████░░░░░░░░░  LEARNING
+C# / Java        ██████████░░░░░░░░░░  LEARNING
 ```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,py,react,ts,c,cpp,cs,java,php,bash,linux,git,github,tensorflow,pytorch&perline=9&theme=dark" width="95%" alt="Technology stack"/>
+</div>
 
 </details>
 
@@ -116,7 +91,7 @@ ACTIVE OPERATIONS
 [001] CYBERSECURITY  vuln research, defensive security, malware analysis, forensics
 [002] REVERSE ENG.   binary structure, assembly, control-flow reconstruction
 [003] AI & NEURAL    ML, deep learning, automation, local AI integration
-[004] SOFTWARE ENG.  full-stack, desktop apps, developer tooling
+[004] SOFTWARE ENG.  full-stack, desktop apps, developer tooling, StudentHours.xyz
 ```
 
 </details>
@@ -124,7 +99,6 @@ ACTIVE OPERATIONS
 <details>
 <summary><b><code>root@skytar:~# links</code></b></summary>
 
-<!-- Clickable connection chips — these DO work on GitHub -->
 <p align="center">
   <a href="https://github.com/shihabskytar"><img src="https://img.shields.io/badge/GitHub-shihabskytar-00FF9C?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" alt="GitHub" /></a>
   <a href="https://www.facebook.com/shihabskytar"><img src="https://img.shields.io/badge/Facebook-shihabskytar-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050505" alt="Facebook" /></a>
@@ -132,6 +106,7 @@ ACTIVE OPERATIONS
   <a href="https://www.linkedin.com/in/shihabskytar"><img src="https://img.shields.io/badge/LinkedIn-shihabskytar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/c/ShihabSkytar"><img src="https://img.shields.io/badge/YouTube-ShihabSkytar-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505" alt="YouTube" /></a>
   <a href="https://www.shihabskytar.com"><img src="https://img.shields.io/badge/Website-shihabskytar.com-FF3030?style=for-the-badge&logo=globe&logoColor=white&labelColor=050505" alt="Website" /></a>
+  <a href="https://app.studenthours.xyz/profile/shihabskytar"><img src="https://img.shields.io/badge/StudentHours-shihabskytar-00FF9C?style=for-the-badge&labelColor=050505" alt="StudentHours" /></a>
 </p>
 
 </details>
@@ -150,7 +125,19 @@ IT HAS BEEN WATCHING YOU SINCE YOU ARRIVED.
 ```
 
 > In the live terminal, this command also triggers the red flash + screen shake.
-> That effect needs JavaScript, so it only happens at https://shihabskytar.github.io/
+
+</details>
+
+<details>
+<summary><b><code>root@skytar:~# cat</code></b></summary>
+
+```text
+ /\_/\  
+( o.o )  ROOT CAT
+ > ^ <
+
+Root access granted. The cat saw you first.
+```
 
 </details>
 
@@ -161,47 +148,43 @@ IT HAS BEEN WATCHING YOU SINCE YOU ARRIVED.
 THE CODE ALWAYS LEAVES A TRACE.
 ```
 
-> In the live terminal, this text scrambles through random characters first,
-> then resolves to the message above. Try it there.
+> In the live terminal, this text scrambles through random characters first, then resolves to the message above.
 
 </details>
 
 ---
 
-## ⚡ Live GitHub activity — updates itself
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on JavaScript
+- 🌱 Currently learning C, C#, Java
+- 🧠 Deep Learning & Machine Learning practitioner and learner from Dhaka, Bangladesh
+- 🛡️ Security researcher interested in breaking things, making things, and making things that break things
+- 🚀 Building [StudentHours.xyz](https://app.studenthours.xyz) — a student social platform
+
+## ✨ Fun Facts
+
+- Silent in the dark. Relentless in the pursuit of knowledge.
+- Think deep. Build hard. Stay precise.
+- The code always leaves a trace.
+
+---
+
+## 📊 Live GitHub activity
 
 <div align="center">
 
-<!-- These cards are live images — they update when your GitHub activity changes -->
-<img src="https://github-readme-stats.vercel.app/api?username=shihabskytar&show_icons=true&theme=dark&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&bg_color=050505&border_color=12382B&hide_border=false" alt="GitHub stats for shihabskytar" />
+<img src="https://github-readme-stats.vercel.app/api?username=shihabskytar&show_icons=true&theme=dark&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&bg_color=050505&border_color=12382B" alt="GitHub stats for shihabskytar" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabskytar&layout=compact&theme=dark&title_color=00FF9C&text_color=ffffff&bg_color=050505&border_color=12382B" alt="Top languages" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihabskytar&theme=dark&ring=00FF9C&fire=FF3030&currStreakLabel=00FF9C&background=050505&border=12382B" alt="GitHub streak" />
 
-</div>
+### 🐍 Contribution snake
 
----
+![GitHub contribution snake](https://raw.githubusercontent.com/shihabskytar/shihabskytar/output/github-contribution-grid-snake-dark.svg)
 
-## 🔥 Featured work
-
-<div align="center">
-
-### HEXCORE by SKYTAR
-**Decode the Unknown. Understand the Core.**
-
-Cross-platform reverse-engineering workstation for authorized security research:
-PE / ELF / Mach-O / APK / MSI analysis, disassembly, CFG & 3D call graphs,
-security findings, PCAP triage, and MCP agent integration.
-
-<a href="https://github.com/shihabskytar?tab=repositories">
-  <img src="https://img.shields.io/badge/▶_VIEW_HEXCORE_ON_GITHUB-00FF9C?style=for-the-badge&labelColor=050505" alt="View HEXCORE on GitHub" />
-</a>
-<a href="https://www.shihabskytar.com">
-  <img src="https://img.shields.io/badge/HEXCORE_by_SKYTAR-FF3030?style=for-the-badge&labelColor=050505" alt="HEXCORE by SKYTAR" />
-</a>
-
-> Copyright (c) SKYTAR. All Rights Reserved. HEXCORE is proprietary, not open source.
+> The snake appears after the first run of `.github/workflows/snake.yml` in this repo. It eats your real contribution grid — purple snake, dark green squares.
 
 </div>
 
