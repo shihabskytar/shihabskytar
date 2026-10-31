@@ -1,257 +1,225 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SKYTAR // WOLF KING // CYBER INTELLIGENCE PROFILE             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:101820,70:8b0000,100:00ff9c&height=280&section=header&text=SKYTAR&fontSize=100&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=WOLF%20KING%20%2F%2F%20CYBER%20INTELLIGENCE%20%2F%2F%20AI%20RESEARCH&descSize=17&descColor=ff3030&descAlignY=63" width="100%"/>
+<!--
+  SKYTAR // WOLF KING — GitHub Profile README
+  IMPORTANT, READ THIS FIRST:
+  GitHub strips JavaScript from .md files, so a real typed terminal,
+  matrix rain, mouse-following eyes, and panic/shake effects CANNOT run
+  inside README.md itself — no matter who writes it. That is GitHub security,
+  not a missing feature.
+  This README therefore does everything GitHub DOES allow, interactively:
+  - animated typing SVG, animated banner, clickable badges
+  - click-to-expand <details> terminal commands (whoami, skills, ops, links, wolf, decrypt)
+  - live GitHub stats / top languages / streak cards
+  - click-through to the FULL terminal, which lives in index.html in this same
+    repo and works exactly like your example once GitHub Pages is on.
+  HOW TO PUBLISH (your one-time sign-in, no Muse connection):
+  1. Create a NEW repo on github.com named exactly: shihabskytar
+     (same as your username — that is what makes it a profile README)
+  2. Do NOT add a README / licence from GitHub — upload this folder instead.
+  3. Push README.md + index.html to main.
+  4. Repo Settings → Pages → Deploy from a branch → main / (root) → Save.
+     Your live terminal will then be at: https://shihabskytar.github.io/
+  5. On your profile, click "Enter the Terminal" below to test it.
+-->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=850&height=65&lines=%3E+INITIALIZING+CYBER+INTELLIGENCE...;%3E+IDENTITY%3A+SKYTAR+%2F%2F+WOLF+KING;%3E+REVERSE+ENGINEERING+%7C+CYBER+RESEARCH;%3E+BREAK+DOWN+THE+BINARY.+REVEAL+THE+UNKNOWN.;%3E+NO+NOISE.+NO+GUESSWORK.+JUST+PRECISION.)](https://github.com/shihabskytar)
+# SKYTAR
 
-[![GitHub](https://img.shields.io/badge/GITHUB-SKYTAR-00ff9c?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=050505)](https://github.com/shihabskytar)
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00ff9c?style=for-the-badge&labelColor=050505)
-![Mode](https://img.shields.io/badge/MODE-APEX-ff3030?style=for-the-badge&labelColor=050505)
-![Focus](https://img.shields.io/badge/FOCUS-CYBER_RESEARCH-00ff9c?style=for-the-badge&labelColor=050505)
+### 🐺 WOLF KING // CYBER INTELLIGENCE
 
-<img src="https://komarev.com/ghpvc/?username=shihabskytar&label=PROFILE%20VISITORS&color=00ff9c&style=for-the-badge" alt="Profile views"/>
+<!-- Animated typing — this DOES animate on GitHub, because it is an SVG image, not JavaScript -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Welcome%2C+operator.;Type+help+or+tap+a+command+below.;Silent+in+the+dark.+Relentless+in+the+pursuit+of+knowledge.;Decode+the+Unknown.+Understand+the+Core." alt="Typing animation: Welcome, operator" />
+
+<br/>
+
+<!-- THE REAL TERMINAL — this is where the full animation + interaction lives -->
+<a href="https://shihabskytar.github.io/">
+  <img src="https://img.shields.io/badge/▶_ENTER_THE_TERMINAL-00FF9C?style=for-the-badge&logo=gnometerminal&logoColor=black&labelColor=050505" alt="Enter the Terminal" />
+</a>
+<a href="https://www.shihabskytar.com">
+  <img src="https://img.shields.io/badge/WEBSITE-shihabskytar.com-FF3030?style=for-the-badge&labelColor=050505" alt="Website" />
+</a>
+<a href="https://github.com/shihabskytar?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-View_all-00FF9C?style=for-the-badge&labelColor=050505" alt="Repositories" />
+</a>
+
+> **In the live terminal you can actually type.**
+> Matrix rain, boot log, typing effect, command chips, mouse-following eyes,
+> whispers, scramble-decrypt, and the wolf panic effect all work there —
+> because `index.html` runs in a browser, not in GitHub markdown.
+> On this profile page, use the clickable commands below instead — they
+> expand in place, exactly like running them.
 
 </div>
 
 ---
 
-<div align="center">
+## 🖥️ Click a command — it runs in place
 
-# ⬡ SKYTAR // WOLF KING ⬡
+> Click any command below. It expands like a terminal output. No page reload, no JavaScript needed.
 
-### `THINK DEEP. BUILD HARD. STAY PRECISE.`
-
-**Cybersecurity Research • Reverse Engineering • Artificial Intelligence • Software Engineering**
-
-</div>
+<details open>
+<summary><b><code>root@skytar:~# help</code></b> — available commands</summary>
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    SKYTAR // SYSTEM                          ║
-╠══════════════════════════════════════════════════════════════╣
-║  IDENTITY     : SKYTAR // WOLF KING                           ║
-║  SPECIALTY    : CYBERSECURITY & REVERSE ENGINEERING           ║
-║  RESEARCH     : AI / ML / SOFTWARE INTELLIGENCE               ║
-║  ANALYSIS     : STATIC / DYNAMIC / DIGITAL FORENSICS          ║
-║  PLATFORMS    : LINUX / WINDOWS / macOS                       ║
-║  ARCHITECT    : OMAR FARUK SHIHAB                              ║
-║  STATUS       : ALWAYS BUILDING                                ║
-╚══════════════════════════════════════════════════════════════╝
+whoami    identity file
+skills    operator skill matrix
+ops       active operations
+links     establish connection
+wolf      look into its eyes
+decrypt   decode the transmission
+clear     wipe the screen  (close all the sections below to reset)
 ```
 
----
+Tap a command chip, or click the sections below:
 
-## `01 // IDENTITY.sys`
+</details>
 
-```ini
+<details>
+<summary><b><code>root@skytar:~# whoami</code></b></summary>
+
+```text
 [IDENTITY]
-ALIAS          = SKYTAR
-CODENAME       = WOLF KING
-NAME           = Omar Faruk Shihab
-ORIGIN         = Dhaka, Bangladesh
-CLASS          = Cybersecurity & AI Research
+ALIAS       = SKYTAR
+CODENAME    = WOLF KING
+NAME        = Omar Faruk Shihab
+ORIGIN      = Dhaka, Bangladesh
+CLASS       = Cybersecurity & AI Research
+RULE        = THINK DEEP. BUILD HARD. STAY PRECISE.
 
-[OPERATIONS]
-SPECIALIZATION = Reverse Engineering
-INTERESTS      = AI / ML / Cybersecurity / Automation
-DEVELOPMENT    = Software Engineering
-
-[CURRENT_LOADOUT]
-PRIMARY        = JavaScript / Python
-SECONDARY      = C / C# / Java
-RESEARCH       = Binary Analysis / Security Engineering
-
-[PHILOSOPHY]
-RULE           = THINK DEEP. BUILD HARD. STAY PRECISE.
+“Silent in the dark. Relentless in the pursuit of knowledge.”
 ```
 
-> "Silent in the dark. Relentless in the pursuit of knowledge."
+</details>
 
----
-
-## `02 // CYBER RESEARCH.sys`
-
-**Building advanced tools and technologies for cybersecurity research, reverse engineering, and software intelligence.**
-
-### Research capabilities
-
-| AREA | FOCUS | STATUS |
-|:---|:---|:---:|
-| Binary Intelligence | PE / ELF / Mach-O analysis | RESEARCH |
-| Reverse Engineering | Disassembly & decompilation | RESEARCH |
-| Malware Research | Defensive malware analysis | EXPLORING |
-| Dynamic Analysis | Runtime behavior investigation | EXPLORING |
-| Security Intelligence | Vulnerability analysis | RESEARCH |
-| AI Integration | AI-assisted security analysis | EXPLORING |
-| Graph Intelligence | CFG & call graph visualization | DEVELOPING |
-| Automation | Security research workflows | DEVELOPING |
-
-### Research environments
-
-`[ LINUX ]` `[ WINDOWS ]` `[ macOS ]`
-
-### Technical interests
-
-- Binary structure analysis
-- Assembly and pseudo-C inspection
-- Control-flow graph construction
-- Function and cross-reference exploration
-- Binary comparison
-- Entropy and string intelligence
-- Security finding analysis
-- Interactive call graphs
-- MCP-powered agent integration
-
----
-
-## `03 // SKILLS & WEAPONS`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,py,react,ts,c,cpp,cs,java,php,bash,linux,git,github,tensorflow,pytorch&perline=9&theme=dark" width="95%" alt="Technology stack"/>
-
-</div>
+<details>
+<summary><b><code>root@skytar:~# skills</code></b></summary>
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                  OPERATOR SKILL MATRIX                │
-├──────────────────────────────────────────────────────┤
-│ JAVASCRIPT       ████████████████████  BUILDING       │
-│ PYTHON           ████████████████████  DEVELOPMENT    │
-│ MACHINE LEARNING ████████████████░░░░  RESEARCH       │
-│ CYBERSECURITY    ███████████████░░░░░  RESEARCH       │
-│ WEB ENGINEERING  █████████████████░░░  DEVELOPMENT    │
-│ C / C++          ███████████░░░░░░░░░  LEARNING       │
-│ C# / JAVA        ██████████░░░░░░░░░░  LEARNING       │
-└──────────────────────────────────────────────────────┘
+OPERATOR SKILL MATRIX
+JavaScript       ████████████████████
+Python           ████████████████████
+Web Engineering  █████████████████░░░
+Machine Learning ████████████████░░░░
+Cybersecurity    ███████████████░░░░░
+C / C++          ███████████░░░░░░░░░
+C# / Java        ██████████░░░░░░░░░░
 ```
 
----
-
-## `04 // ACTIVE OPERATIONS`
-
-<details>
-<summary><b>⚔ OPERATION 001 — CYBERSECURITY RESEARCH</b></summary>
-
-- Security architecture
-- Vulnerability research
-- Defensive security
-- Malware analysis
-- Digital forensics
-- Network intelligence
-
 </details>
 
 <details>
-<summary><b>⬡ OPERATION 002 — REVERSE ENGINEERING</b></summary>
+<summary><b><code>root@skytar:~# ops</code></b></summary>
 
-- Binary structure analysis
-- Assembly inspection
-- Control-flow reconstruction
-- Function analysis
-- Software behavior research
-- Cross-platform binary intelligence
-
-</details>
-
-<details>
-<summary><b>🧠 OPERATION 003 — AI & NEURAL SYSTEMS</b></summary>
-
-- Machine learning
-- Deep learning
-- AI automation
-- Intelligent research assistants
-- Local AI integration
-
-</details>
-
-<details>
-<summary><b>⚙ OPERATION 004 — SOFTWARE ENGINEERING</b></summary>
-
-- Full-stack development
-- Desktop application engineering
-- Developer tooling
-- System architecture
-- Automation systems
-
-</details>
-
----
-
-## `05 // GITHUB INTELLIGENCE`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihabskytar&theme=radical" width="100%" alt="Profile summary"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shihabskytar&theme=radical" width="49%" alt="GitHub statistics"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shihabskytar&theme=radical" width="49%" alt="Repository languages"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shihabskytar&theme=radical&utcOffset=6" width="49%" alt="Productive time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shihabskytar&theme=radical" width="49%" alt="Commit languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shihabskytar&theme=redical&bg_color=000000&color=00ff9c&line=ff3030&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shihabskytar&theme=matrix&no-frame=true&no-bg=true&margin-w=8" width="100%" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## `06 // THE PACK`
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:111820,100:8b0000&height=150&section=header&text=NO%20PACK%20NEEDED.&fontSize=32&fontColor=00ff9c&animation=fadeIn&desc=BUILD%20YOUR%20OWN%20LEGACY.&descColor=ff3030&descSize=15" width="100%"/>
-
-</div>
-
-### Establish connection
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=00ff9c)](https://www.facebook.com/shihabskytar)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/shihabskytar)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/shihabskytar)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=ff3030)](https://www.youtube.com/c/ShihabSkytar)
-
-**WEBSITE:** [shihabskytar.com](https://www.shihabskytar.com)
-
-</div>
-
----
-
-## `07 // TERMINAL.SESSION`
-
-```bash
-$ whoami
-SKYTAR // WOLF KING
-
-$ initialize research
-[+] KNOWLEDGE ENGINE ONLINE
-
-$ inspect the unknown
-[+] ANALYSIS IN PROGRESS
-
-$ echo "The code always leaves a trace."
-The code always leaves a trace.
-
-$ exit
-SESSION CLOSED.
+```text
+ACTIVE OPERATIONS
+[001] CYBERSECURITY  vuln research, defensive security, malware analysis, forensics
+[002] REVERSE ENG.   binary structure, assembly, control-flow reconstruction
+[003] AI & NEURAL    ML, deep learning, automation, local AI integration
+[004] SOFTWARE ENG.  full-stack, desktop apps, developer tooling
 ```
 
+</details>
+
+<details>
+<summary><b><code>root@skytar:~# links</code></b></summary>
+
+<!-- Clickable connection chips — these DO work on GitHub -->
+<p align="center">
+  <a href="https://github.com/shihabskytar"><img src="https://img.shields.io/badge/GitHub-shihabskytar-00FF9C?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/shihabskytar"><img src="https://img.shields.io/badge/Facebook-shihabskytar-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050505" alt="Facebook" /></a>
+  <a href="https://x.com/shihabskytar"><img src="https://img.shields.io/badge/X-shihabskytar-ffffff?style=for-the-badge&logo=x&logoColor=black&labelColor=050505" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/shihabskytar"><img src="https://img.shields.io/badge/LinkedIn-shihabskytar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/c/ShihabSkytar"><img src="https://img.shields.io/badge/YouTube-ShihabSkytar-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505" alt="YouTube" /></a>
+  <a href="https://www.shihabskytar.com"><img src="https://img.shields.io/badge/Website-shihabskytar.com-FF3030?style=for-the-badge&logo=globe&logoColor=white&labelColor=050505" alt="Website" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><b><code>root@skytar:~# wolf</code></b></summary>
+
+```text
+      ▄▀▄       ▄▀▄
+     ▐▓▓▓▀▄▄▄▄▄▀▓▓▓▌
+      ▀█  ◉   ◉  █▀
+       █   ▼▼   █
+        ▀▄▄▄▄▄▀
+
+IT HAS BEEN WATCHING YOU SINCE YOU ARRIVED.
+```
+
+> In the live terminal, this command also triggers the red flash + screen shake.
+> That effect needs JavaScript, so it only happens at https://shihabskytar.github.io/
+
+</details>
+
+<details>
+<summary><b><code>root@skytar:~# decrypt</code></b></summary>
+
+```text
+THE CODE ALWAYS LEAVES A TRACE.
+```
+
+> In the live terminal, this text scrambles through random characters first,
+> then resolves to the message above. Try it there.
+
+</details>
+
+---
+
+## ⚡ Live GitHub activity — updates itself
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=900&color=FF3030&center=true&vCenter=true&width=800&height=65&lines=%5B+SYSTEM+ONLINE+%5D;%5B+STAY+SHARP.+STAY+CURIOUS.+%5D;%5B+DECODE+THE+UNKNOWN.+%5D;%5B+THE+WOLF+NEVER+STOPS.+%5D)](https://github.com/shihabskytar)
+<!-- These cards are live images — they update when your GitHub activity changes -->
+<img src="https://github-readme-stats.vercel.app/api?username=shihabskytar&show_icons=true&theme=dark&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&bg_color=050505&border_color=12382B&hide_border=false" alt="GitHub stats for shihabskytar" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabskytar&layout=compact&theme=dark&title_color=00FF9C&text_color=ffffff&bg_color=050505&border_color=12382B" alt="Top languages" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shihabskytar&theme=dark&ring=00FF9C&fire=FF3030&currStreakLabel=00FF9C&background=050505&border=12382B" alt="GitHub streak" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:111820,100:000000&height=130&section=footer" width="100%"/>
+</div>
 
-**© SKYTAR — WOLF KING**
+---
 
-`[ END OF TRANSMISSION ]`
+## 🔥 Featured work
+
+<div align="center">
+
+### HEXCORE by SKYTAR
+**Decode the Unknown. Understand the Core.**
+
+Cross-platform reverse-engineering workstation for authorized security research:
+PE / ELF / Mach-O / APK / MSI analysis, disassembly, CFG & 3D call graphs,
+security findings, PCAP triage, and MCP agent integration.
+
+<a href="https://github.com/shihabskytar?tab=repositories">
+  <img src="https://img.shields.io/badge/▶_VIEW_HEXCORE_ON_GITHUB-00FF9C?style=for-the-badge&labelColor=050505" alt="View HEXCORE on GitHub" />
+</a>
+<a href="https://www.shihabskytar.com">
+  <img src="https://img.shields.io/badge/HEXCORE_by_SKYTAR-FF3030?style=for-the-badge&labelColor=050505" alt="HEXCORE by SKYTAR" />
+</a>
+
+> Copyright (c) SKYTAR. All Rights Reserved. HEXCORE is proprietary, not open source.
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐺 Try the real thing
+
+**This profile page can show, expand, and link — it cannot type, rain, or watch your mouse.**
+**The terminal can. One click, full interaction:**
+
+<a href="https://shihabskytar.github.io/">
+  <img src="https://img.shields.io/badge/▶_ENTER_THE_TERMINAL_—_TYPE_help-FF3030?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=050505" alt="Enter the Terminal" />
+</a>
+
+<br/><br/>
+
+`root@skytar:~#` — *THINK DEEP. BUILD HARD. STAY PRECISE.*
 
 </div>
