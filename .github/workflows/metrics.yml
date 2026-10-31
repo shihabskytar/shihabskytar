@@ -17,7 +17,7 @@ jobs:
           template: classic
           filename: github-metrics.svg
           config_base: header, activity, community, repositories, metadata
-          config_languages: details, limit: 8
+          config_languages: "details, limit: 8"
           plugin_activity: "yes"
           plugin_community: "yes"
           plugin_repositories: "yes"
