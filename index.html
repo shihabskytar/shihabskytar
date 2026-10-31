@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SKYTAR // WOLF KING</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#050505;--fg:#00ff9c;--red:#ff3030;--dim:#4f7a68;--panel:rgba(4,10,8,.84);--edge:#12382b;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#050505;--fg:#00ff9c;--red:#ff3030;--dim:#4f7a68;--panel:rgba(4,10,8,.84);--edge:#12382b}}
+:root[data-theme="dark"]{--bg:#050505;--fg:#00ff9c;--red:#ff3030;--dim:#4f7a68;--panel:rgba(4,10,8,.84);--edge:#12382b}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.55 "JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;overflow:hidden}
+#rain{position:fixed;inset:0;width:100%;height:100%;z-index:0}
+.vig{position:fixed;inset:0;z-index:1;pointer-events:none;background:radial-gradient(ellipse at center,transparent 35%,rgba(0,0,0,.88) 100%),repeating-linear-gradient(0deg,rgba(0,0,0,.18) 0 1px,transparent 1px 3px)}
+#flash{position:fixed;inset:0;z-index:5;pointer-events:none;background:var(--red);opacity:0}
+#term{position:relative;z-index:2;height:100%;overflow-y:auto;max-width:900px;margin:0 auto;padding:18px 16px 24px;background:var(--panel);border-left:1px solid var(--edge);border-right:1px solid var(--edge)}
+h1{margin:0 0 2px;font-size:clamp(28px,7vw,52px);letter-spacing:.06em;font-weight:800;text-shadow:0 0 12px var(--fg);animation:fl 5s infinite}
+.sub{color:var(--red);font-size:12px;letter-spacing:.18em;margin-bottom:12px}
+@keyframes fl{0%,92%,100%{opacity:1}93%{opacity:.35;transform:translateX(-3px)}94%{opacity:1;text-shadow:3px 0 var(--red),-3px 0 #0ff}96%{opacity:.6}97%{opacity:1;transform:none}}
+.ln{white-space:pre-wrap;word-break:break-word;min-height:1.55em}
+.r{color:var(--red)}.d{color:var(--dim)}.b{font-weight:700}
+a{color:var(--fg);text-decoration:underline}a:hover{color:var(--red)}
+pre.w{margin:6px 0;line-height:1.15}
+.row{display:flex;gap:8px;align-items:center;margin-top:4px}
+.ps{color:var(--red);white-space:nowrap}
+#in{flex:1;min-width:0;background:transparent;border:0;outline:0;color:var(--fg);font:inherit;caret-color:var(--red)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
+.chips button{background:transparent;color:var(--fg);border:1px solid var(--edge);font:inherit;font-size:12px;padding:5px 10px;cursor:pointer}
+.chips button:hover{border-color:var(--red);color:var(--red);box-shadow:0 0 10px var(--red)}
+#whisper{position:fixed;z-index:3;top:calc(14px + env(safe-area-inset-top,0px));right:16px;color:var(--red);font-size:12px;letter-spacing:.14em;opacity:0;transition:opacity 1.2s;pointer-events:none;text-align:right;max-width:60vw}
+#eyes{position:fixed;z-index:4;right:16px;bottom:calc(14px + env(safe-area-inset-bottom,0px));display:flex;gap:7px;pointer-events:none}
+#eyes i{width:24px;height:12px;border-radius:50%;background:#1a0000;box-shadow:0 0 12px var(--red);display:block;position:relative;overflow:hidden}
+#eyes b{position:absolute;left:9px;top:3px;width:6px;height:6px;border-radius:50%;background:var(--red);transition:transform .06s}
+.shake #term{animation:sh .09s infinite}
+@keyframes sh{0%{transform:translate(3px,-2px)}50%{transform:translate(-4px,2px)}100%{transform:translate(2px,3px)}}
+.shake h1{text-shadow:4px 0 var(--red),-4px 0 #0ff}
+@media (prefers-reduced-motion:reduce){h1{animation:none}.shake #term{animation:none}}
+</style>
+</head>
+<body>
+<canvas id="rain"></canvas><div class="vig"></div><div id="flash"></div>
+<div id="whisper"></div>
+<div id="eyes" aria-hidden="true"><i><b></b></i><i><b></b></i></div>
+<main id="term">
+<h1>SKYTAR</h1>
+<div class="sub">WOLF KING // CYBER INTELLIGENCE</div>
+<div id="out" aria-live="polite"></div>
+<div class="row"><span class="ps">root@skytar:~#</span><input id="in" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="terminal input" disabled></div>
+<div class="chips" id="chips"></div>
+</main>
+<script>
+(function(){
+var out=document.getElementById('out'),inp=document.getElementById('in'),term=document.getElementById('term'),flash=document.getElementById('flash');
+var reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+var sleep=function(ms){return new Promise(function(r){setTimeout(r,ms)})};
+function scroll(){term.scrollTop=term.scrollHeight}
+function line(t,c){var d=document.createElement('div');d.className='ln '+(c||'');d.textContent=t;out.appendChild(d);scroll();return d}
+function html(h){var d=document.createElement('div');d.className='ln';d.innerHTML=h;out.appendChild(d);scroll()}
+async function type(t,c,sp){var d=line('',c);if(reduce){d.textContent=t;return}for(var i=0;i<t.length;i++){d.textContent+=t[i];await sleep(sp||10)}scroll()}
+async function print(arr){for(var i=0;i<arr.length;i++){var a=arr[i];if(a[2])html(a[0]);else line(a[0],a[1]);await sleep(reduce?0:35)}}
+
+/* ---------- horror effects ---------- */
+function panic(){
+  if(reduce){flash.style.opacity=.5;setTimeout(function(){flash.style.opacity=0},200);return}
+  document.body.classList.add('shake');var n=0;
+  var iv=setInterval(function(){flash.style.opacity=(n++%2)?0:.55;if(n>8){clearInterval(iv);flash.style.opacity=0;document.body.classList.remove('shake')}},110);
+}
+var whispers=['IT KNOWS YOU ARE HERE','DO NOT CLOSE THE TERMINAL','SOMETHING IS WATCHING','THE CODE LEAVES A TRACE','YOU ARE NOT ALONE IN THE SHELL','TRACE: 1 CONNECTION','THE WOLF HEARD THAT'];
+var wh=document.getElementById('whisper');
+function whisper(){wh.textContent=whispers[Math.floor(Math.random()*whispers.length)];wh.style.opacity=.9;setTimeout(function(){wh.style.opacity=0},2600);setTimeout(whisper,12000+Math.random()*10000)}
+setTimeout(whisper,9000);
+var pupils=document.querySelectorAll('#eyes b'),eyes=document.getElementById('eyes');
+addEventListener('pointermove',function(e){var r=eyes.getBoundingClientRect(),cx=r.left+r.width/2,cy=r.top+r.height/2,dx=e.clientX-cx,dy=e.clientY-cy,m=Math.hypot(dx,dy)||1,k=Math.min(m,60)/60;
+  pupils.forEach(function(p){p.style.transform='translate('+(dx/m*5*k)+'px,'+(dy/m*2.5*k)+'px)'})});
+async function scramble(final){
+  var d=line('','r b'),g='0123456789ABCDEF#$%&@?<>/\\|';
+  if(reduce){d.textContent=final;return}
+  for(var f=0;f<=final.length*2;f++){var s='';for(var i=0;i<final.length;i++){s+=(i<f/2||final[i]===' ')?final[i]:g[Math.floor(Math.random()*g.length)]}d.textContent=s;await sleep(28)}
+}
+
+/* ---------- matrix rain ---------- */
+var cv=document.getElementById('rain'),cx=cv.getContext('2d'),cols=[],fs=16,chars='01░▒▓╳ΩΣ';
+function size(){cv.width=innerWidth;cv.height=innerHeight;cols=[];for(var i=0;i<Math.floor(cv.width/fs);i++)cols.push({y:Math.random()*cv.height/fs,red:Math.random()<.08})}
+size();addEventListener('resize',size);
+function draw(){cx.fillStyle='rgba(5,5,5,.09)';cx.fillRect(0,0,cv.width,cv.height);cx.font=fs+'px monospace';
+  for(var i=0;i<cols.length;i++){var c=cols[i];cx.fillStyle=c.red?'#ff3030':'#00ff9c';cx.globalAlpha=.55;cx.fillText(chars[Math.floor(Math.random()*chars.length)],i*fs,c.y*fs);cx.globalAlpha=1;
+    if(c.y*fs>cv.height&&Math.random()>.975){c.y=0;c.red=Math.random()<.08}c.y++}}
+if(reduce){cx.fillStyle='#050505';cx.fillRect(0,0,cv.width,cv.height)}else{setInterval(draw,70)}
+
+/* ---------- commands ---------- */
+function bar(n){return '█'.repeat(n)+'░'.repeat(20-n)}
+var C={
+help:function(){return[['AVAILABLE COMMANDS','r b'],['  whoami    identity file'],['  skills    operator skill matrix'],['  ops       active operations'],['  links     establish connection'],['  wolf      look into its eyes'],['  decrypt   decode the transmission'],['  clear     wipe the screen'],['  (try breaking things)','d']]},
+whoami:function(){return[['[IDENTITY]','r b'],['ALIAS       = SKYTAR'],['CODENAME    = WOLF KING'],['NAME        = Omar Faruk Shihab'],['ORIGIN      = Dhaka, Bangladesh'],['CLASS       = Cybersecurity & AI Research'],['RULE        = THINK DEEP. BUILD HARD. STAY PRECISE.'],['“Silent in the dark. Relentless in the pursuit of knowledge.”','d']]},
+skills:function(){return[['OPERATOR SKILL MATRIX','r b'],['JavaScript       '+bar(20)],['Python           '+bar(20)],['Web Engineering  '+bar(17)],['Machine Learning '+bar(16)],['Cybersecurity    '+bar(15)],['C / C++          '+bar(11)],['C# / Java        '+bar(10)]]},
+ops:function(){return[['ACTIVE OPERATIONS','r b'],['[001] CYBERSECURITY  vuln research, defensive security, malware analysis, forensics'],['[002] REVERSE ENG.   binary structure, assembly, control-flow reconstruction'],['[003] AI & NEURAL    ML, deep learning, automation, local AI integration'],['[004] SOFTWARE ENG.  full-stack, desktop apps, developer tooling']]},
+links:function(){return[['ESTABLISH CONNECTION','r b'],['<a href="https://github.com/shihabskytar" target="_blank" rel="noopener">GITHUB</a>  <a href="https://www.facebook.com/shihabskytar" target="_blank" rel="noopener">FACEBOOK</a>  <a href="https://x.com/shihabskytar" target="_blank" rel="noopener">X</a>  <a href="https://www.linkedin.com/in/shihabskytar" target="_blank" rel="noopener">LINKEDIN</a>  <a href="https://www.youtube.com/c/ShihabSkytar" target="_blank" rel="noopener">YOUTUBE</a>  <a href="https://www.shihabskytar.com" target="_blank" rel="noopener">WEBSITE</a>','',1]]},
+wolf:function(){panic();return[['<pre class="w">      ▄▀▄       ▄▀▄\n     ▐▓▓▓▀▄▄▄▄▄▀▓▓▓▌\n      ▀█  <span class="r">◉</span>   <span class="r">◉</span>  █▀\n       █   ▼▼   █\n        ▀▄▄▄▄▄▀</pre>','',1],['IT HAS BEEN WATCHING YOU SINCE YOU ARRIVED.','r']]}
+};
+async function run(raw){
+  var cmd=raw.trim().toLowerCase();if(!cmd)return;
+  var e=document.createElement('div');e.className='ln';var p=document.createElement('span');p.className='ps';p.textContent='root@skytar:~# ';e.appendChild(p);e.appendChild(document.createTextNode(raw));out.appendChild(e);scroll();
+  if(cmd==='clear'){out.innerHTML='';return}
+  if(cmd==='decrypt'){await scramble('THE CODE ALWAYS LEAVES A TRACE.');return}
+  if(/^(sudo|rm|shutdown|reboot|kill|hack)/.test(cmd)){panic();await print([['ACCESS DENIED.','r b'],['PERMISSION REVOKED BY WOLF KING. THIS ATTEMPT HAS BEEN LOGGED.','r']]);return}
+  if(cmd==='exit'){panic();await print([['THERE IS NO EXIT.','r b'],['SESSION CLOSED? NO. THE SESSION NEVER CLOSES.','r']]);return}
+  if(C[cmd]){await print(C[cmd]());return}
+  await print([['command not found: '+cmd.slice(0,40).replace(/[<>]/g,''),'r'],['type help','d']]);
+}
+var hist=[],hi=0;
+inp.addEventListener('keydown',function(e){
+  if(e.key==='Enter'){var v=inp.value;inp.value='';if(v.trim()){hist.push(v);hi=hist.length}run(v)}
+  else if(e.key==='ArrowUp'&&hist.length){hi=Math.max(0,hi-1);inp.value=hist[hi];e.preventDefault()}
+  else if(e.key==='ArrowDown'&&hist.length){hi=Math.min(hist.length,hi+1);inp.value=hist[hi]||'';e.preventDefault()}
+});
+var chips=document.getElementById('chips');
+['help','whoami','skills','ops','links','wolf','decrypt'].forEach(function(n){var b=document.createElement('button');b.textContent=n;b.addEventListener('click',function(){run(n);inp.focus()});chips.appendChild(b)});
+document.addEventListener('click',function(e){if(e.target.tagName!=='A'&&e.target.tagName!=='BUTTON')inp.focus()});
+
+/* ---------- boot ---------- */
+(async function(){
+  var boot=[['[ 0.000 ] kernel loading...','d'],['[ 0.412 ] mounting /dev/shadow ........ OK','d'],['[ 0.903 ] bypassing firewall ........... OK','d'],['[ 1.377 ] neural core handshake ........ OK','d'],['[ 1.911 ] WARNING: unknown presence detected','r'],['[ 2.250 ] identity verified: SKYTAR // WOLF KING','']];
+  for(var i=0;i<boot.length;i++){await type(boot[i][0],boot[i][1],reduce?0:9);await sleep(reduce?0:160)}
+  line('');await type('Welcome, operator. Type help or tap a command below.','b',14);
+  inp.disabled=false;inp.focus();
+})();
+})();
+</script>
+</body>
+</html>
