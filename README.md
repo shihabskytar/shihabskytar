@@ -1,8 +1,8 @@
 [![SKYTAR banner](https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:101820,70:8b0000,100:00ff9c&height=280&section=header&text=SKYTAR&fontSize=100&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=WOLF%20KING%20%2F%2F%20ROOT%20CAT%20%2F%2F%20CYBER%20INTELLIGENCE&descSize=17&descColor=ff3030&descAlignY=63)](https://www.shihabskytar.com)
 
+<h1 align="center">SKYTAR // WOLF KING // Root Cat</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shihabskytar&left_color=00ff9c&right_color=050505" alt="Profile visitors" />
 
-<h1 align="center">SKYTAR // WOLF KING // Root Cat</h1>
 <h3 align="center">Omar Faruk Shihab — Cybersecurity & AI Research, Dhaka, Bangladesh</h3>
 
 <div align="center">
@@ -20,11 +20,7 @@
   <img src="https://img.shields.io/badge/WEBSITE-shihabskytar.com-FF3030?style=for-the-badge&labelColor=050505" alt="Website" />
 </a>
 
-> **The real terminal lives at [shihabskytar.github.io](https://shihabskytar.github.io/)** — type there, with matrix rain, mouse-following Root Cat eyes, and the wolf panic effect. On this page, use the clickable terminal commands at the bottom instead.
-
 </div>
-
----
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
@@ -34,63 +30,61 @@
   </a>
 </p>
 
----
-
 ![GitHub Snake](https://raw.githubusercontent.com/shihabskytar/shihabskytar/output/github-contribution-grid-snake-dark.svg)
 
----
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+    <!-- Left Column: Live activity -->
+    <div style="flex: 1; max-width: 45%;">
+        <img align="left" width="100%" alt="if you see this, it means my activity card is not working" src="https://github-readme-streak-stats.herokuapp.com/?user=shihabskytar&theme=dark&ring=00FF9C&fire=FF3030&currStreakLabel=00FF9C&background=050505&border=12382B">
+    </div>
 
-<h3>🌐 Let's Connect and Grow Together!</h3>
+    <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
+        <h3>🌐 Let's Connect and Grow Together!</h3>
+        <p>
+            <a href="https://www.facebook.com/shihabskytar" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="Facebook">
+            </a>
+            <a href="https://x.com/shihabskytar" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" alt="X / Twitter">
+            </a>
+            <a href="https://www.linkedin.com/in/shihabskytar" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
+            </a>
+            <a href="https://www.youtube.com/c/ShihabSkytar" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
+            </a>
+        </p>
 
-<p>
-  <a href="https://www.facebook.com/shihabskytar" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="Facebook">
-  </a>
-  <a href="https://x.com/shihabskytar" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" alt="X / Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/shihabskytar" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
-  </a>
-  <a href="https://www.youtube.com/c/ShihabSkytar" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
-  </a>
-</p>
+        <h3>✨ Fun Facts</h3>
+        <ul>
+            <li>🔭 Currently working on JavaScript.</li>
+            <li>🌱 Currently learning C, C#, Java.</li>
+            <li>🧠 Deep Learning & Machine Learning practitioner and learner.</li>
+            <li>Silent in the dark. Relentless in the pursuit of knowledge.</li>
+            <li>Think deep. Build hard. Stay precise.</li>
+            <li>The code always leaves a trace.</li>
+        </ul>
 
-<h3>✨ Fun Facts</h3>
-
-- 🔭 Currently working on JavaScript
-- 🌱 Currently learning C, C#, Java
-- 🧠 Deep Learning & Machine Learning practitioner and learner
-- Silent in the dark. Relentless in the pursuit of knowledge.
-- Think deep. Build hard. Stay precise.
-- The code always leaves a trace.
-
-<h3>🧑‍💻 About Me</h3>
-
-<p>
-  I'm a security researcher from Dhaka, Bangladesh, with a strong background in
-  cybersecurity, reverse engineering, and full-stack software engineering.
-  I have a keen interest in breaking things, making things, and making things
-  that break things — and in solving complex problems with precise, clean builds.
-</p>
-<p>
-  I'm also building <a href="https://app.studenthours.xyz">StudentHours.xyz</a> —
-  a student social platform — and I'm always eager to learn new things and share
-  what I learn with the community.
-</p>
-
----
-
-## 📊 Live GitHub activity
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shihabskytar&theme=dark&ring=00FF9C&fire=FF3030&currStreakLabel=00FF9C&background=050505&border=12382B" alt="GitHub streak" />
+        <h3>🧑‍💻 About Me</h3>
+        <p>
+            I'm a security researcher from Dhaka, Bangladesh, with a strong background in
+            cybersecurity, reverse engineering, and full-stack software engineering.
+            I have a keen interest in breaking things, making things, and making things
+            that break things — and in solving complex problems with precise, clean builds.
+        </p>
+        <p>
+            I'm also building <a href="https://app.studenthours.xyz">StudentHours.xyz</a> —
+            a student social platform — and I'm always eager to learn new things and share
+            what I learn with the community.
+        </p>
+    </div>
 </div>
 
 ---
 
 ## 🖥️ Terminal — click a command, it runs in place
+
+> **The real terminal lives at [shihabskytar.github.io](https://shihabskytar.github.io/)** — type there, with matrix rain, mouse-following Root Cat eyes, and the wolf panic effect. On this page, use the clickable terminal commands below instead.
 
 <details open>
 <summary><b><code>root@skytar:~# help</code></b></summary>
