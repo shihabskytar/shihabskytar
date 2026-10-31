@@ -170,21 +170,21 @@ THE CODE ALWAYS LEAVES A TRACE.
 
 ---
 
+## 🛠️ Languages and Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,py,react,ts,c,cpp,cs,java,php,bash,linux,git,github,tensorflow,pytorch&perline=9&theme=dark" width="95%" alt="Technology stack"/>
+</div>
+
 ## 📊 Live GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shihabskytar&show_icons=true&theme=dark&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&bg_color=050505&border_color=12382B" alt="GitHub stats for shihabskytar" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabskytar&layout=compact&theme=dark&title_color=00FF9C&text_color=ffffff&bg_color=050505&border_color=12382B" alt="Top languages" />
-<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihabskytar&theme=dark&ring=00FF9C&fire=FF3030&currStreakLabel=00FF9C&background=050505&border=12382B" alt="GitHub streak" />
 
 ### 🐍 Contribution snake
 
 ![GitHub contribution snake](https://raw.githubusercontent.com/shihabskytar/shihabskytar/output/github-contribution-grid-snake-dark.svg)
-
-> The snake appears after the first run of `.github/workflows/snake.yml` in this repo. It eats your real contribution grid — purple snake, dark green squares.
 
 </div>
 
