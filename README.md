@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,ts,c,cpp,cs,java,php,bash,linux,git,github,tensorflow,pytorch&perline=9&theme=dark" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,ts,c,cpp,cs,java,php,bash,linux,git,github,tensorflow,pytorch&theme=dark" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -18,9 +18,9 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-    <!-- Left Column: Live activity -->
+    <!-- Left Column: Metrics -->
     <div style="flex: 1; max-width: 45%;">
-        <img align="left" width="100%" alt="if you see this, it means my activity card is not working" src="https://github-readme-streak-stats.herokuapp.com/?user=shihabskytar&theme=dark&ring=00FF9C&fire=FF3030&currStreakLabel=00FF9C&background=050505&border=12382B">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/shihabskytar/shihabskytar/blob/main/github-metrics.svg">
     </div>
 
 
